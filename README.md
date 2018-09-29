@@ -16,7 +16,7 @@ URL: http://123.207.163.104/Doublez/user.do
 	method[必选]  {“register”}
 	email[必选]   
 	password[必选]
-	avartar[必选] 头像图片的byte64字符串
+	avatar[必选] 头像图片的byte64字符串
 返回数据：
 {“code”: 0/1/2/3/4 int类型，0代表成功，其他都为失败
  “msg”: String 类型，信息}
